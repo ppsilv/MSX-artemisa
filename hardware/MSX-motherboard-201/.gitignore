@@ -1,0 +1,7 @@
+gerber/
+fp-info-cache
+*-cache.lib
+*.bak
+*.bck
+*-bak
+*.net

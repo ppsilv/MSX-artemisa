@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name artemisa)(type Legacy)(uri ${KIPRJMOD}/../libs/artemisa.lib)(options "")(descr ""))
-)
